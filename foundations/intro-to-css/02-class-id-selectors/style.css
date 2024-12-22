@@ -1,0 +1,19 @@
+.first {
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#id1{
+    color: blue;
+    font-size: x-large;
+}
+.second {
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bold;
+    font-size: larger;
+}
+#id2{
+    background-color: green;
+    font-size: large;
+    font-weight: bold;
+}
